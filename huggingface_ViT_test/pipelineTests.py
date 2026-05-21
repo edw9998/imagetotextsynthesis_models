@@ -46,3 +46,5 @@ test = huggingFace_ViT_GPT2()
 
 # response = startseq['a man holding a cell phone in his hand']endseq
 # test.generate_caption(['f_paths\\test_2.jpg'])
+
+test.generate_caption(['f_paths\\303102907(flickr30k).jpg'])
